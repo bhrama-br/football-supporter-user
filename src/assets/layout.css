@@ -1,0 +1,54 @@
+#background-sign {
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.links-sign {
+    text-align: center;
+    margin-top: 10px;
+}
+.links-sign button{
+    background-color: transparent;
+    border: 0;
+    text-decoration: none !important;
+    font-size: 13px;
+    color: rgb(0, 69, 196);
+}
+
+
+.links-sign button:hover{
+    background-color: transparent;
+    border: 0;
+    text-decoration: none !important;
+    font-size: 13px;
+    color: rgb(0, 69, 196);
+}
+
+.footer-row{
+    background-color: #212529;
+    padding: 8px;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+}
+.footer-text{
+    font-size: 13px;
+    color: #ffff;
+}
+
+.button-icon{
+    color: var(--bs-link-color);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.button-icon{
+    color: var(--bs-link-color);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.button-icon:hover {
+    color: var(--bs-link-hover-color);
+}
