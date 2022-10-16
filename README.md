@@ -1,7 +1,7 @@
 
 # Football Supporter - FrontEnd User
 
-- [@api](https://github.com/bhrama-br/footbool-supporter-api)
+- [@api](https://github.com/bhrama-br/football-supporter)
 
 - [@admin_app](https://github.com/bhrama-br/football-supporter-admin)
 
